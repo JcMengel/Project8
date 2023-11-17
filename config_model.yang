@@ -1,0 +1,1 @@
+pyang -f tree --plugindir $PYANG_PLUGINS -o config_model.py config_model.yang
